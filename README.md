@@ -1,6 +1,6 @@
 # Digits of Partition Functions
 
-This repository contains a Lean 4 formalization of both parts of Theorem 1.1
+This repository contains a Lean 4 formalization of both parts of Theorem 1.2
 from my paper
 [*On the Digits of Partition Functions*](https://link.springer.com/article/10.1007/s00026-026-00827-9),
 published in *Annals of Combinatorics*.
