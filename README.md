@@ -33,7 +33,7 @@ The main Lean statement is
 
 ## Formalization boundary and assumptions
 
-The current Lean development formalizes the deduction of Theorem 1.1 from the
+The current Lean development formalizes the deduction of Theorem 1.2 from the
 two logarithmic estimates quoted in the paper. It **assumes** those estimates;
 it does not yet derive them from combinatorial definitions of the partition
 and plane-partition functions. More precisely, `p` and `PL` are arbitrary
